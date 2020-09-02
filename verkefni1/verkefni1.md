@@ -1,5 +1,5 @@
 #  Verkefni 1 
-Færslur og snúningar,  vægi 20% af loka einkunn
+Færslur og snúningar,  vægi 25% af lokaeinkunn
 
 ## 1.hluti suiside 33 stig af 100 
 Hér er það tíminn sem ræður færslunni, nýtið ykkur  Sample program- basic movement- Moving forward
