@@ -1,14 +1,26 @@
-# Samsetning á vélmenni vægi 10% 
-Munið að vinna saman og taka tillit til skoðanna hvors annars. 
-Það er algjört skilyrði að allur frágangur sé góður eftir hvern tíma þ.e er verkfæri fara á sinn stað í skápa og tösku.
-Farið á heimasíðu áfangans: [Námsefni áfangans](http://cmra.rec.ri.cmu.edu/previews/robot_c_products/teaching_rc_cortex_v2/).
-ef krækja virkar ekki farið í robotc.net og veljið video trainer VEX Cortex  
-### Verkefnið
-1. Farið í Setup – Build og veljið Clawbot with Sensors Building Instructions. 
-1. Fylgið leiðbeiningum við uppbyggingu vélmennis. 
-1. Fullvissið ykkur að allt efni Clawbot with Sensors Building Instructions sé í tösku ykkar, ef ekki leitið til kennara um aðföng. 
-1. Reynið eftir bestu getu að skipuleggja víra svo snyrtilegt sé.![Vírar](../img/caplemanagement.jpeg)
-1. Merkið vélmennið þannig að vel sjáist hver á.
-1. Takið mynd af vélmenni frá hlið framan og að ofan skilið síðan slóðinni í Innu verkefni 1.
-  
-áætlaður tími er 1-2 vikur 
+#  Verkefni 2 
+Færslur og snúningar,  vægi 20% af loka einkunn
+
+## 1.hluti suiside 20 stig af 100 
+Hér er það tíminn sem ræður færslunni, nýtið ykkur  Sample program- basic movement- Moving forward
+Kóðið robot þannig að hann keyri 0,5m fram og til baka síðan 1m fram og til baka o.s.fr þar til að komið er að 2,5m.
+Gerið sauðakóða og flæðirit áður en þið forritið og skilið í Innu Munið að kommenta kóðan á svipaðan hátt og hér fyrir
+neðan setjið gildi sem ekki breytast í t.d const int.  Hafið föll og breytur með lýsandi heiti og á ensku.
+Notið for-lúppu eða while búið til fall void drive(int drivetime Gerið flæðiritið í http://draw.io  þegar búið farið í  
+File-export as - image. Skilið vido af vélmenni leysa allar þrautinar setjið á YouTube og eða geymið í ykkar repository og skilið slóð á videóið í Innu.
+
+##  2.hluti 30 stig af 100
+Suiside sama verkefni og 1.hluti nema með með shaft encoder  Hér er það snúningar á hjóli sem ræður færslunni
+Nýtið ykkur Sample program- Shaft encoder- Moving straight
+Notið while lúppu búið til fall void drive(int dist){}
+Gerið sauðakóða sem textaskjal með C kóðanum og flæðirit áður en þið forritið og skilið í Innu
+Athugið að þið þurfið að reikna ummál hjóls og sýna í commenti.  Gerið flæðiritið í http://draw.io þegar búið farið í  File-export as - image. Skilið vido af vélmenni leysa allar þrautinar setjið á YouTube og eða geymið í ykkar repository og skilið slóð á videóið í Innu.
+##  3. Hluti 50 stig af 100
+Forritið robot þannig að hann leysi þraut sem er á mynd fyrir neðan.
+Notið shaft-encoder, munið hér þurfið þið að kenna robot að snúa 90° þ.e búa til fall void turn(int deg){} og void drive(int dist){}
+Nýtið ykkur Sample program- Shaft encoder- Movement 	by rotation
+Gerið sauðakóða sem textaskjal með C kóðanum og flæðirit áður en þið forritið og skilið í Innu
+Gerið flæðiritið í [Draw.io](http://draw.io) þegar búið farið í  File-export as - image
+Skilið vido af vélmenni leysa allar þrautinar setjið á YouTube og eða geymið í ykkar repository og skilið slóð á videóið í Innu.
+
+![Mynd af verkefni 2 hluti c](/verkefni2/verkefni2.png).
