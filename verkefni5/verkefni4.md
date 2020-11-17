@@ -11,8 +11,12 @@ Hver hópur eða einstaklingur hannar sitt eigið lokaverkefni þ.e þraut sem v
 1. Setja  allt í lokaverkefni.md skjal þ.e teikningar, mynd af vélmenni, sauðakóða og flæðirit 10 stig
 1. Video af vélmenni að leysa þraut. 5 stig
 1. Skynjarar
- * fsdfs
- * fsdfsd
+ * sónar 5 stig
+ * línusensor 5 stig
+ * Neyðarhnappur vélmenni 3 stig
+ * Neyðarhnappur fjarstýring 2 stig
+ * Gíró eða acceleratormeter 3 stig
+ * Encoder 2 stig
 
 Skil: slóð í slóð í video á git og skila slóð á giti í Innu
 
