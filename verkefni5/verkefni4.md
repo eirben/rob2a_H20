@@ -10,6 +10,7 @@ Hver hópur eða einstaklingur hannar sitt eigið lokaverkefni þ.e þraut sem v
 1. Setja  allt í lokaverkefni.md skjal þ.e teikningar, mynd af vélmenni, sauðakóða og flæðirit 10 stig (snyrtilegt og vel uppsett)
 1. Video af vélmenni að leysa þraut. 5 stig
 1. Skynjarar
+ * LCD 10 stig 
  * lightsensor 5 stig
  * sónar 5 stig
  * línusensor 5 stig
