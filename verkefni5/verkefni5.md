@@ -6,9 +6,8 @@ Hver hópur eða einstaklingur hannar sitt eigið lokaverkefni þ.e þraut sem v
  * Skrá allar bjargi þ.e vélbúnað mótorar og sensorar sem er notaður  og eigindi þess (t.d analog/digital og parametrar) 3 stig
  * Breyta vélmenni þannig að hann geti leyst þrautina 2 stig
  * Gera sauðakóða 5 stig
- * Kóði 40 stig
+ * Kóði, virkni , video 45 stig
  * Setja  allt í lokaverkefni.md skjal þ.e teikningar, mynd af vélmenni, sauðakóða og flæðirit 10 stig (snyrtilegt og vel uppsett)
- * Video af vélmenni að leysa þraut. 5 stig
  * Skynjarar
  * LCD 10 stig 
  * lightsensor 5 stig
